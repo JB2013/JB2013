@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /:title/
+permalink: baseurl/:title/
 category: projects
 
 meta:
