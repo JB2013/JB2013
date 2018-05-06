@@ -8,7 +8,7 @@ linkedin: "https://www.linkedin.com/jeffreyrbutler"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/JB2013"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
